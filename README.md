@@ -1,3 +1,3 @@
-# excursion
+# Excursion
 
-Just a project for a web design course
+Practice making a simple responsive view for mobile devices
